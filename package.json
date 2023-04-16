@@ -1,0 +1,22 @@
+{
+  "name": "blogene",
+  "version": "1.4.16",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmitDeka/Blogene.git"
+  },
+  "author": "Amit Deka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AmitDeka/Blogene/issues"
+  },
+  "homepage": "https://github.com/AmitDeka/Blogene#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
